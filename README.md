@@ -41,3 +41,4 @@ Also, instead of just understanding these topics, we will **design the logic of 
 # Table of Contents
 ### [CH0 - Software Installation and Documents Explained](https://github.com/Steppeschool/STM32-Course-for-beginners/wiki/CH0-%E2%80%90-Software-Installations-and-Docuements-Explanation)
 ### [CH1 - STM32 GPIO Peripheral](https://github.com/Steppeschool/STM32-Course-for-beginners/wiki/CH1-%E2%80%90-GPIO-Peripheral)
+### [CH2 - STM32 External Interrupts](https://github.com/Steppeschool/STM32-Course-for-beginners/wiki/CH2-%E2%80%90-STM32,-External-Interrupts)
